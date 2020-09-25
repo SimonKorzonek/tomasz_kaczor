@@ -19,8 +19,7 @@
 
 
 svg:active{
-    color:white;
-}
+    color:white;}
 
 .welcome-buttons{
     letter-spacing: 2px;
@@ -53,7 +52,6 @@ svg:active{
 
 
 #main-header{
-    font-size: 400%;
     margin: 20px 0px 20px 0px;
     width: 60%;}
 
